@@ -22,4 +22,18 @@ Result display: The output of the Nmap commands is displayed in a text widget (r
 
 Overall, this code provides a simple GUI interface for running various Nmap scans by selecting different scan types through buttons and entering the target IP address or name. It's a user-friendly way to interact with Nmap, especially for those who are not comfortable using the command line interface.
 
+
+'''how to insatall this follow the steps given :
+git clone https://github.com/yashlonewolf/Wolf-scanner.git
+
+cd Wolf-scanner
+
+pip install -r requirements.txt
+'''
+run using this command 
+
+python3 nscan.py
+
+
+enjoy it ............!
 thanks
